@@ -13,12 +13,10 @@
 <div align="center">
   <img src="https://img.shields.io/badge/HTML5-dd4b25.svg?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS-2862e9.svg?style=for-the-badge&logo=CSS3&logoColor=white">
-  <img src="https://img.shields.io/badge/Oracle ERP-FFFFFF.svg?style=for-the-badge&logo=Oracle&logoColor=red">
+  <img src="https://img.shields.io/badge/Oracle -FFFFFF.svg?style=for-the-badge&logo=Oracle&logoColor=red">
   <img src="https://img.shields.io/badge/JavaScript-efd81d.svg?style=for-the-badge&logo=javascript&logoColor=000000">
-    <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
   <img src="https://img.shields.io/badge/Oracle Apex-F80000?style=for-the-badge&logo=oracle&logoColor=black">
-	<!--  <img src="https://img.shields.io/badge/PHP-7377ad?style=for-the-badge&logo=PHP&logoColor=000000">
-  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"> -->
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"> 
 </div>
 </p>
 
@@ -26,51 +24,26 @@
 <div align="center">
 	<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
 	<img src="https://img.shields.io/badge/SQL-F80000?style=for-the-badge&logo=Oracle&logoColor=white">
-	<img src="https://img.shields.io/badge/OCI-FFFFFF?style=for-the-badge&logo=google-cloud&logoColor=red">
-        <img src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white">
-	<img src="https://img.shields.io/badge/Wix-000?style=for-the-badge&logo=wix&logoColor=white">
-</div>
-</p>
-
-<p>
-<div align="center">
-  <img src="https://img.shields.io/badge/basecamp-ffd303?style=for-the-badge&logo=basecamp&logoColor=1b2c35">
-	  <img src="https://img.shields.io/badge/Jira-2684FF.svg?style=for-the-badge&logo=Jira&logoColor=white">
-	<img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white">
-	  <img src="https://img.shields.io/badge/Slack-FFFFFF.svg?style=for-the-badge&logo=slack&logoColor=red">
 </div>
 </p>
 
 <p>
 <div align="center">
   <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
- <!-- <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"> -->
-	 <!--  <img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white">-->
-	  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
-	<img src="https://img.shields.io/badge/Visual%20Studio-131072.svg?style=for-the-badge&logo=visual-studio&logoColor=white">
+  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
+ <img src="https://img.shields.io/badge/Visual%20Studio-131072.svg?style=for-the-badge&logo=visual-studio&logoColor=white">
+  <img src="https://img.shields.io/badge/PY%20Charm-131072.svg?style=for-the-badge&logo=pycharm&logoColor=white">
 	
 </div>
 </p>
 
 
-<p>
-<div align="center">
-  <img src="https://img.shields.io/badge/Adobe%20Lightroom-001d34.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=2fa3f7">
-  <img src="https://img.shields.io/badge/adobeillustrator-310000.svg?style=for-the-badge&logo=adobeillustrator&logoColor=f79500">
-  <img src="https://img.shields.io/badge/adobephotoshop-001d34.svg?style=for-the-badge&logo=adobephotoshop&logoColor=2fa3f7">
-  <img src="https://img.shields.io/badge/Adobe%20after%20affects-CF96FD?style=for-the-badge&logo=Adobe%20after%20effects&logoColor=393665">
-  <!--<img src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6"> -->
-  	
-</div>
-</p>
+
 
 <p>
 <div align="center">
-  <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
-  <img src="https://img.shields.io/badge/Balsamiq-880808?style=for-the-badge&logo=wire&logoColor=white">
-  <img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white">
   <img src="https://img.shields.io/badge/Microsoft Excel-%4CBB17.svg?style=for-the-badge&logo=Microsoft Excel&logoColor=white">
-  <img src="https://img.shields.io/badge/Microsoft_Teams-6264A7?style=for-the-badge&logo=microsoft-teams&logoColor=white">
+  <img src="https://img.shields.io/badge/Google Meet-6264A7?style=for-the-badge&logo=google-meet&logoColor=white">
   <img src=" https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white">
   <img src="https://img.shields.io/badge/Microsoft_Visio-3955A3?style=for-the-badgee&logo=microsoft-visio&logoColor=white">
 </div>
