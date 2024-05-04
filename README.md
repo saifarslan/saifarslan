@@ -17,6 +17,7 @@
   <img src="https://img.shields.io/badge/JavaScript-efd81d.svg?style=for-the-badge&logo=javascript&logoColor=000000">
   <img src="https://img.shields.io/badge/Oracle Apex-F80000?style=for-the-badge&logo=oracle&logoColor=black">
   <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"> 
+  <img src="https://img.shields.io/badge/Java?style=for-the-badge&logo=java&logoColor=ffdd54"> 
 </div>
 </p>
 
